@@ -24,4 +24,4 @@ This project has taught me user input handling, random number generation, condit
 
 ## How did you make this program maintainable, readable, and adaptable?
 
-The program is written with clear variable names (sides, roll) and straightforward logic, which improves readability.
+The program is written with straightforward variable names and simple logic.
